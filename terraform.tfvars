@@ -3,6 +3,10 @@ rg = {
     name     = "praveen"
     location = "Central India"
   }
+   rg2 = {
+    name     = "pk"
+    location = "Central India"
+  }
 }
 
 vn = {
